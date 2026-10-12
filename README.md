@@ -39,8 +39,8 @@ I currently work on the Technology team at **Yousa Law**, maintaining the compan
 | Project | What it is | Stack |
 |---|---|---|
 | [kamban](https://github.com/juannixx/kamban) | Desktop task manager with a Kanban board and Google Calendar integration (OAuth with PKCE) | Tauri, Rust, React, TypeScript |
-| [jogo_na_caixa](https://github.com/juannixx/jogo_na_caixa) | Board game rental website, with documented design, architecture and implementation plan | Next.js, Supabase, Tailwind |
-| [molina_express_web_site](https://github.com/juannixx/molina_express_web_site) | Company website with per-pull-request preview deploys on GitHub Pages | TypeScript, GitHub Actions |
+| [jogo_na_caixa](https://github.com/juannixx/jogo_na_caixa) | Board game rental website, currently in the design phase: architecture, data model and implementation plan documented | Next.js, Supabase, Tailwind |
+| [molina_express_web_site](https://github.com/juannixx/molina_express_web_site) | Marketing website for a UK courier company, with a placeholder guard on production builds and per-PR preview deploys | Astro, Tailwind, Playwright, GitHub Actions |
 | [patas-e-cia](https://github.com/juannixx/patas-e-cia) | Responsive, accessible landing page built with plain HTML, CSS and JavaScript | HTML, CSS, JavaScript |
 
 ## How I work
@@ -57,4 +57,4 @@ I currently work on the Technology team at **Yousa Law**, maintaining the compan
 ## Languages
 
 - Portuguese (native)
-- English
+- English (B2)
