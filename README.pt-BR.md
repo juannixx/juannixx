@@ -58,3 +58,7 @@ Hoje trabalho no time de Tecnologia da **Yousa Law**, mantendo a infraestrutura 
 
 - Português (nativo)
 - Inglês (B2)
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanoliveirasilvadev/)
