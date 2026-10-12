@@ -39,8 +39,8 @@ Hoje trabalho no time de Tecnologia da **Yousa Law**, mantendo a infraestrutura 
 | Projeto | O que é | Stack |
 |---|---|---|
 | [kamban](https://github.com/juannixx/kamban) | App desktop de tarefas com Kanban e integração com o Google Agenda (OAuth com PKCE) | Tauri, Rust, React, TypeScript |
-| [jogo_na_caixa](https://github.com/juannixx/jogo_na_caixa) | Site de aluguel de jogos de tabuleiro, com design, arquitetura e plano de implementação documentados | Next.js, Supabase, Tailwind |
-| [molina_express_web_site](https://github.com/juannixx/molina_express_web_site) | Site institucional com deploy de preview por pull request no GitHub Pages | TypeScript, GitHub Actions |
+| [jogo_na_caixa](https://github.com/juannixx/jogo_na_caixa) | Site de aluguel de jogos de tabuleiro, em fase de design: arquitetura, modelo de dados e plano de implementação documentados | Next.js, Supabase, Tailwind |
+| [molina_express_web_site](https://github.com/juannixx/molina_express_web_site) | Site institucional de uma transportadora do Reino Unido, com trava de placeholders no build de produção e preview por pull request | Astro, Tailwind, Playwright, GitHub Actions |
 | [patas-e-cia](https://github.com/juannixx/patas-e-cia) | Landing page responsiva e acessível, em HTML, CSS e JavaScript puros | HTML, CSS, JavaScript |
 
 ## Como eu trabalho
@@ -53,3 +53,8 @@ Hoje trabalho no time de Tecnologia da **Yousa Law**, mantendo a infraestrutura 
 
 - Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Anhanguera)
 - **Analista de Desenvolvimento Web** (SENAI)
+
+## Idiomas
+
+- Português (nativo)
+- Inglês (B2)
