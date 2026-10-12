@@ -1,18 +1,20 @@
-# Olá, eu sou o Juan 👋
+# Hi, I'm Juan 👋
 
-Desenvolvedor **Full Stack** em Florianópolis/SC. Construo sistemas internos, integrações e automações que tiram trabalho manual das equipes: do banco de dados à interface, passando pelas APIs que ligam tudo.
+🇧🇷 [Leia em português](./README.pt-BR.md)
 
-Hoje trabalho no time de Tecnologia da **Yousa Law**, mantendo a infraestrutura digital da empresa: apps desktop, painéis, bancos de dados e fluxos automatizados.
+**Full Stack Developer** based in Florianópolis, Brazil, open to remote opportunities. I build internal systems, integrations and automations that remove manual work from teams: from the database to the UI, including the APIs that connect everything.
 
-## O que eu faço
+I currently work on the Technology team at **Yousa Law**, maintaining the company's digital infrastructure: desktop apps, dashboards, databases and automated workflows.
 
-- **Aplicações web e desktop** com React, TypeScript e Tauri (Rust)
-- **Back-end e dados** com Node.js, Supabase e PostgreSQL
-- **Automação e integrações** com n8n, Airtable, webhooks e APIs REST
-- **Servidores MCP** para conectar agentes de IA a sistemas de atendimento e CRM
-- **Mobile** com FlutterFlow (publicação em iOS e Android)
+## What I do
 
-## Stack
+- **Web and desktop applications** with React, TypeScript and Tauri (Rust)
+- **Back end and data** with Node.js, Supabase and PostgreSQL
+- **Automation and integrations** with n8n, Airtable, webhooks and REST APIs
+- **MCP servers** that connect AI agents to customer support and CRM systems
+- **Mobile** with FlutterFlow (shipping to iOS and Android)
+
+## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,22 +34,27 @@ Hoje trabalho no time de Tecnologia da **Yousa Law**, mantendo a infraestrutura 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que é | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [kamban](https://github.com/juannixx/kamban) | App desktop de tarefas com Kanban e integração com o Google Agenda (OAuth com PKCE) | Tauri, Rust, React, TypeScript |
-| [jogo_na_caixa](https://github.com/juannixx/jogo_na_caixa) | Site de aluguel de jogos de tabuleiro, com design, arquitetura e plano de implementação documentados | Next.js, Supabase, Tailwind |
-| [molina_express_web_site](https://github.com/juannixx/molina_express_web_site) | Site institucional com deploy de preview por pull request no GitHub Pages | TypeScript, GitHub Actions |
-| [patas-e-cia](https://github.com/juannixx/patas-e-cia) | Landing page responsiva e acessível, em HTML, CSS e JavaScript puros | HTML, CSS, JavaScript |
+| [kamban](https://github.com/juannixx/kamban) | Desktop task manager with a Kanban board and Google Calendar integration (OAuth with PKCE) | Tauri, Rust, React, TypeScript |
+| [jogo_na_caixa](https://github.com/juannixx/jogo_na_caixa) | Board game rental website, with documented design, architecture and implementation plan | Next.js, Supabase, Tailwind |
+| [molina_express_web_site](https://github.com/juannixx/molina_express_web_site) | Company website with per-pull-request preview deploys on GitHub Pages | TypeScript, GitHub Actions |
+| [patas-e-cia](https://github.com/juannixx/patas-e-cia) | Responsive, accessible landing page built with plain HTML, CSS and JavaScript | HTML, CSS, JavaScript |
 
-## Como eu trabalho
+## How I work
 
-- Tudo passa por branch e pull request, com commits no padrão Conventional Commits
-- CI no GitHub Actions validando lint, testes e build
-- Documentação antes do código: design, decisões e plano ficam no repositório
+- Every change goes through a branch and a pull request, with Conventional Commits
+- CI on GitHub Actions running lint, tests and build
+- Docs before code: design, decisions and plans live in the repository
 
-## Formação
+## Education
 
-- Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Anhanguera)
-- **Analista de Desenvolvimento Web** (SENAI)
+- Associate degree in **Systems Analysis and Development** (Anhanguera, Brazil)
+- **Web Development Analyst** program (SENAI, Brazil)
+
+## Languages
+
+- Portuguese (native)
+- English
