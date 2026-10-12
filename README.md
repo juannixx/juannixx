@@ -58,3 +58,7 @@ I currently work on the Technology team at **Yousa Law**, maintaining the compan
 
 - Portuguese (native)
 - English (B2)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanoliveirasilvadev/)
